@@ -3,9 +3,34 @@
   "name": "Create React App Sample",
   "icons": [
     {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+        "src": "images/touch-icon-iphone-retina.png",
+        "sizes": "120x120",
+        "type": "image/png"
+    },
+    {
+        "src": "images/icon.png",
+        "sizes": "128x128",
+        "type": "image/png"
+    },
+    {
+        "src": "images/touch-icon-ipad-retina.png",
+        "sizes": "152x152",
+        "type": "image/png"
+    },
+    {
+        "src": "images/touch-icon-ipad-pro.png",
+        "sizes": "167x167",
+        "type": "image/png"
+    },
+    {
+        "src": "images/",
+        "sizes": "180x180",
+        "type": "image/touch-icon-iphone-6-plus.png"
+    },
+    {
+        "src": "images/icon-hd.png",
+        "sizes": "192x192",
+        "type": "image/png"
     }
   ],
   "start_url": "./index.html",
