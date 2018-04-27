@@ -1,3 +1,7 @@
+## Test URL
+
+http://tastytodos-hosting-mobilehub-620507515.s3-website.us-east-1.amazonaws.com/
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -43,5 +47,7 @@ that your web app is reliably fast, even on a slow or unreliable network.
 
 `npm run build` creates a `build` directory with a production build of your app. Set up your favorite HTTP server so that a visitor to your site is served `index.html`, and requests to static paths like `/static/js/main.<hash>.js` are served with the contents of the `/static/js/main.<hash>.js` file.
 ### [S3](https://aws.amazon.com/s3) and [CloudFront](https://aws.amazon.com/cloudfront/)
+
+`awsmobile publish`
 
 See this [blog post](https://medium.com/@omgwtfmarc/deploying-create-react-app-to-s3-or-cloudfront-48dae4ce0af) on how to deploy your React app to Amazon Web Services S3 and CloudFront.
