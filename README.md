@@ -2,6 +2,11 @@
 
 http://tastytodos-hosting-mobilehub-620507515.s3-website.us-east-1.amazonaws.com/
 
+### To test the PWA
+* Open the webapp in Safari
+* Press the sare button (up arrow in a square)
+* Press "Add to Home Screen"
+
 ## Available Scripts
 
 In the project directory, you can run:
